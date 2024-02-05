@@ -1,4 +1,5 @@
-import serial, sys
+import serial
+import sys
 import matplotlib.pyplot as plt
 
 x=range(0, 100, 1)
@@ -11,7 +12,7 @@ while True:
     data.pop(-1)
     data.insert(0,line2)
     plt.clf()
-    plt.ylim([-1.0,1.0])
+    plt.ylim([-1,1000.0])
     plt.plot(x,data)
     plt.pause(0.1)
   except KeyboardInterrupt:
