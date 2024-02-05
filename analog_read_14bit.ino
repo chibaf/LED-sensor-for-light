@@ -1,6 +1,6 @@
 void setup(){
-    Serial.begin(19200);
-	  analogReadResolution(14); //change to 14-bit resolution
+  Serial.begin(19200);
+  analogReadResolution(14); //change to 14-bit resolution
 	}
 	
 	void loop(){
