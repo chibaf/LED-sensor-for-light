@@ -17,5 +17,6 @@ while True:
     plt.pause(0.1)
   except KeyboardInterrupt:
     print ('exiting')
+    ser.close()
     break
 exit()
