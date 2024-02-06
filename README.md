@@ -1,5 +1,7 @@
 # LED-sensor-for-light
 
+movie of operation https://www.youtube.com/watch?v=EgvO5hGpgfk
+
 ## references
 
 LEDを光センサーとして使い、照明強度を計測：Design Ideas 計測とテスト（1/3 ページ） - EDN Japan
