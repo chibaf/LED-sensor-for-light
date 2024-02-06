@@ -1,5 +1,7 @@
 # LED-sensor-for-light
 
+usage: python3 realtimeplot_led.py "serial port name"
+
 movie of operation https://www.youtube.com/watch?v=EgvO5hGpgfk
 
 ## references
